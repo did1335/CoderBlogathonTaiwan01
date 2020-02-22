@@ -30,7 +30,7 @@ public:
 	}
 };
 
-int main(void)
+int main()
 {
 	Cylinder Instance;
 
