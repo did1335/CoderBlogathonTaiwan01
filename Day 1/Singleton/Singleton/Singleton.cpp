@@ -8,7 +8,7 @@ private:
 	volatile static Singleton *instance;
 	Singleton() {
 		cout << "建立物件..." << endl;
-	}
+	}	
 public:
 	volatile static Singleton *getInstance() {
 		if (instance == NULL) {
