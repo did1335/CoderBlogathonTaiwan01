@@ -3,3 +3,6 @@
 ## Day 00
 * Inheritance
 * Polymorphism
+## Day 01
+* Simple Factory
+* Singleton
